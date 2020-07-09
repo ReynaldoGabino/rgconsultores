@@ -1,0 +1,111 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+/* CSS Document */
+
+/*//////////////////////////////////////////////////
+	INFO TABS Styling
+//////////////////////////////////////////////////*/
+.fullwidth-switcher{
+	width: 900px;
+	margin: 0 auto;
+	overflow: hidden;
+	min-height:475px;
+	padding-top:10px;
+}
+.section-tab{
+	width: 890px;
+	min-height:90px;
+	overflow: hidden;
+	position: relative;
+}
+.fullwidth-switcher div.section-tab >ul >li{
+	list-style-type: none;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #666666;	
+	text-align: left;	
+	cursor: pointer;
+	z-index:0;
+	position: relative;
+}
+.fullwidth-switcher div.section-tab >ul >li:first-child{
+	background: none;
+}
+.fullwidth-switcher div.section-tab >ul >li.active{
+	color: #666666;
+	z-index:100;
+	padding-right: 2px;
+	margin-right: -2px;
+}
+.generic-div-list >div{display:none}
+.generic-div-list >div.active{display: block}
+.va-helper { /*move to global*/
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+
+}
+
+@media (min-width: 400px ){
+
+
+.fullwidth-switcher {
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    min-height: 475px;
+    padding-top: 10px;
+}
+
+.section-tab {
+    width: 100%;
+    min-height: 90px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+}
+
+@media (max-width: 450px ){
+
+
+.fullwidth-switcher {
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    min-height: 475px;
+    padding-top: 10px;
+}
+
+.section-tab {
+    width: 100%;
+    min-height: 90px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+}
+
+@media (max-width: 800px ){
+
+
+.fullwidth-switcher {
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    min-height: 475px;
+    padding-top: 10px;
+}
+
+.section-tab {
+    width: 100%;
+    min-height: 90px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+}

@@ -1,0 +1,45 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+/* CSS Document */
+
+#contact-area {
+	width: 100%;
+	margin-top: 1px;
+	text-align: center;
+}
+#contact-area input, #contact-area textarea {
+	padding: 1px;
+	width: 340px;
+	font-family: 'Roboto' sans-serif;
+	font-size: 13px;
+	border: 2px solid #ccc;
+	color: #666;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+
+#contact-area textarea {
+	height: 100px;
+}
+
+#contact-area textarea:focus, #contact-area input:focus {
+	border: 2px solid #000;
+}
+
+#contact-area input.submit-button {
+	width: 100px;
+	float: right;
+}
+
+label {
+	float: left;
+	text-align: left;
+	margin-right: 0px;
+	width: 100px;
+	padding-top: 5px;
+	font-size: 14px;
+	font-family: 'Roboto' sans-serif;
+	color: #666;
+}

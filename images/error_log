@@ -1,0 +1,16 @@
+[11-Mar-2019 14:29:27 UTC] PHP Warning:  include_once(header-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 49
+[11-Mar-2019 14:29:27 UTC] PHP Warning:  include_once(): Failed opening 'header-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 49
+[11-Mar-2019 14:29:27 UTC] PHP Warning:  include_once(footer-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 860
+[11-Mar-2019 14:29:27 UTC] PHP Warning:  include_once(): Failed opening 'footer-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 860
+[13-Mar-2019 12:50:09 UTC] PHP Warning:  include_once(header-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 49
+[13-Mar-2019 12:50:09 UTC] PHP Warning:  include_once(): Failed opening 'header-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 49
+[13-Mar-2019 12:50:09 UTC] PHP Warning:  include_once(footer-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 860
+[13-Mar-2019 12:50:09 UTC] PHP Warning:  include_once(): Failed opening 'footer-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 860
+[03-Aug-2019 05:55:43 UTC] PHP Warning:  include_once(header-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 49
+[03-Aug-2019 05:55:43 UTC] PHP Warning:  include_once(): Failed opening 'header-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 49
+[03-Aug-2019 05:55:43 UTC] PHP Warning:  include_once(footer-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 860
+[03-Aug-2019 05:55:43 UTC] PHP Warning:  include_once(): Failed opening 'footer-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 860
+[03-Aug-2019 07:29:17 UTC] PHP Warning:  include_once(header-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 49
+[03-Aug-2019 07:29:17 UTC] PHP Warning:  include_once(): Failed opening 'header-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 49
+[03-Aug-2019 07:29:17 UTC] PHP Warning:  include_once(footer-croix.php): failed to open stream: No such file or directory in /home/croixweb/public_html/images/articulo.php on line 860
+[03-Aug-2019 07:29:17 UTC] PHP Warning:  include_once(): Failed opening 'footer-croix.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/croixweb/public_html/images/articulo.php on line 860

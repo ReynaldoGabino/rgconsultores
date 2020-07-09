@@ -1,0 +1,3 @@
+dorado claro #BF9000
+dorado oscuro #7F6000
+gris oscuro #262626
